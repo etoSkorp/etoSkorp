@@ -26,3 +26,5 @@
 <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=71CDF4&background=FFFFFF00&width=435&lines=My+last+project%3A" alt="Typing SVG" /></a></h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoSkorp&repo=WeatherAppCompose)](https://github.com/etoSkorp/WeatherAppCompose)
+
+![](https://komarev.com/ghpvc/?username=etoSkorp)
