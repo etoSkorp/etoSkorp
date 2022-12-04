@@ -12,3 +12,4 @@
 <a href="mailto:roman.kvtrenko@gmail.com"><img src="https://github.com/etoSkorp/etoSkorp/blob/main/images-and-icons/gmail.svg" alt="gmail" width="50" height="50"></a>
 <a href="https://t.me/etoSkorp"><img src="https://github.com/etoSkorp/etoSkorp/blob/main/images-and-icons/telegram.svg" alt="telegram" width="50" height="50"></a>
 <a href="https://habr.com/ru/users/etoSkorp/"><img src="https://github.com/etoSkorp/etoSkorp/blob/main/images-and-icons/habr.svg" alt="habr" width="50" height="50"></a>
+
